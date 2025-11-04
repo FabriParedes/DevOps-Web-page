@@ -1,0 +1,44 @@
+name: Update Activity in README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # cada 12 horas (UTC)
+  workflow_dispatch: {}       # permitir ejecución manual desde Actions
+  push:
+    paths:
+      - ".github/workflows/activity-log.yml"
+
+# Necesario para que el job pueda commitear cambios
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update README with latest activity
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: "FabriParedes"        
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}   # <-- secret creado en el Step B
+          EVENT_LIMIT: 10
+          OUTPUT_STYLE: "MARKDOWN"
+          README_PATH: "README.md"
+          # IGNORE_EVENTS: '["ReleaseEvent"]'  # opcional
+          # HIDE_DETAILS_ON_PRIVATE_REPOS: "true"
+          # DRY_RUN: "false"
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): update activity"
+            git push
+          else
+            echo "No changes to commit."
+          fi

@@ -12,8 +12,6 @@ This repository publishes a site with GitHub Pages and displays automatically up
 6. 📝 Committed to [FabriParedes/automation-activity](https://github.com/FabriParedes/automation-activity/commit/c2a356ef1bb95d88003901bf69534d22d9145d4f)
 7. 📝 Committed to [FabriParedes/automation-activity](https://github.com/FabriParedes/automation-activity/commit/bb1338e83ae3d5e5c7a1ac9bb6d02de7e4cf8d03)
 8. 📝 Committed to [FabriParedes/automation-activity](https://github.com/FabriParedes/automation-activity/commit/a2a9f48458609c48714ba3c33001c696117d8ab7)
-9. 📝 Committed to [FabriParedes/automation-activity](https://github.com/FabriParedes/automation-activity/commit/49e5cb0c54d17521c2fee899ee0095dbb0f958bb)
-10. 📝 Committed to [FabriParedes/automation-activity](https://github.com/FabriParedes/automation-activity/commit/ccf83741a619759a1e3398fdd0a46c2a0f1389a3)
 <!--END_SECTION:activity-->
 
 ## About

@@ -4,16 +4,16 @@ This repository publishes a site with GitHub Pages and displays automatically up
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to [FabriParedes/DevSecOps](https://github.com/FabriParedes/DevSecOps/commit/9e7d2040a22d6af6fc552e8f8cca7272294192c1)
-2. 📝 Committed to [FabriParedes/DevSecOps](https://github.com/FabriParedes/DevSecOps/commit/f24f373832cb9775dfee0f87ed3afe1b7868bb0a)
-3. 📝 Committed to [FabriParedes/DevSecOps](https://github.com/FabriParedes/DevSecOps/commit/3762fa3b262adb4cbd84d7f3810840866f5eee85)
-4. 📝 Committed to [FabriParedes/DevSecOps](https://github.com/FabriParedes/DevSecOps/commit/e8a53d89d875fbc28b5ea4fd6176b63e54129b5e)
-5. 🎉 Created a new branch [`main`](https://github.com/FabriParedes/DevSecOps/tree/main) in [FabriParedes/DevSecOps](https://github.com/FabriParedes/DevSecOps)
-6. 📝 Committed to [FabriParedes/otel-collector-config](https://github.com/FabriParedes/otel-collector-config/commit/8ed28602c5f2ef47097fcfdd004a0d13713af696)
-7. 🎉 Created a new branch [`main`](https://github.com/FabriParedes/otel-collector-config/tree/main) in [FabriParedes/otel-collector-config](https://github.com/FabriParedes/otel-collector-config)
-8. 📝 Committed to [FabriParedes/DevOps-Web-page](https://github.com/FabriParedes/DevOps-Web-page/commit/33bf74abda4053352849f2301685b8e3b384b21e)
-9. 📝 Committed to [FabriParedes/DevOps-Web-page](https://github.com/FabriParedes/DevOps-Web-page/commit/b8cc5c7177c53f8495f01ac2ef21a146bc0cc5a8)
-10. 📝 Committed to [FabriParedes/DevOps-Web-page](https://github.com/FabriParedes/DevOps-Web-page/commit/9ff97617cbfdbe4141278a4001040aff3b269be7)
+1. 📝 Committed to [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community/commit/12256461f47577bb593255a46a6c17f212ddc2d8)
+2. 📥 Opened [PR #2](https://github.com/FlorenciaLopez777/Devopsa11community/pull/2) in [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community)
+3. 🎉 Created a new branch [`feature/profile-privacy-lock-toggle`](https://github.com/FlorenciaLopez777/Devopsa11community/tree/feature/profile-privacy-lock-toggle) in [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community)
+4. 📝 Committed to [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community/commit/89e0ecf2f7159e6893426963d52b63fa9a93e336)
+5. 📥 Opened [PR #1](https://github.com/FlorenciaLopez777/Devopsa11community/pull/1) in [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community)
+6. 🎉 Created a new branch [`feature/simplified-login-toggle-1`](https://github.com/FlorenciaLopez777/Devopsa11community/tree/feature/simplified-login-toggle-1) in [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community)
+7. 🎉 Created a new branch [`feature/simplified-login-toggle`](https://github.com/FlorenciaLopez777/Devopsa11community/tree/feature/simplified-login-toggle) in [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community)
+8. 📝 Committed to [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community/commit/b1d91ad4f307f18000041a8dd41ce50e065c74ba)
+9. 📝 Committed to [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community/commit/6ea6a71f9356ed9a45385d016b8d9f5bb5149928)
+10. 📝 Committed to [FlorenciaLopez777/Devopsa11community](https://github.com/FlorenciaLopez777/Devopsa11community/commit/4513d12ba2a276d3212f34cc5263bf02640c1cc1)
 <!--END_SECTION:activity-->
 
 ## About
